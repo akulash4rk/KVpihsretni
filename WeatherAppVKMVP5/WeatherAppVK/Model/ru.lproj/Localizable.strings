@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  WeatherAppVK
+
+  Created by Владислав Баранов on 22.07.2024.
+  
+*/
+"rain" = "Дождь";
+"storm" = "Гроза";
+"snow" = "Снег";
+"sun" = "Солнце";
+"cloud" = "Облачно";
+"rainAndStorm" = "Дождь и гроза";
+"fog" = "Туман";
